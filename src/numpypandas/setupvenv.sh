@@ -6,4 +6,4 @@ virtualenv venv
 
 source venv/bin/activate
 
-pip3 install jupyter pandas numpy matplotlib
+pip3 install jupyter pandas numpy matplotlib seaborn
